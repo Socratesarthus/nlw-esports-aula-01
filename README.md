@@ -5,4 +5,4 @@ Construindo uma aplicação web com Node usando typeScript. Usando o https://hop
 
 Construindo o front-end com React. Usando o https://vitejs.dev/ para facilitar a constução do front.
 
-Construindo o app mobile com ReactNative.
+Construindo o app mobile com ReactNative. Ferramenta https://docs.expo.dev/ para rodar app já no smartphone. 
